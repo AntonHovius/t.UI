@@ -6,7 +6,7 @@ The Tūi project (*stylised: t.ŪI*) is a fledgling initiative where we get crea
 
 # TUIs (Tangible User Interfaces) 
 TUIs are novel forms of human-computer interactions based on the physical manipulation of everyday objects introduced by Hiroshi Ishii and Brygg Ullmer [1].
-One of the most simple examples is the computer mouse with its two *click*-parts and scroll wheel, a physical object used to interact with digital information.
+One of the most simple examples is the computer mouse - with its two *click*-parts and scroll wheel, a physical object used to interact with digital information.
 
 By integrating MIDI control with accessible and intuitive design, TUIs can present advantages with respect to traditional approaches and methodologies is early music education. TUIs allow students to investigate basic music parameters, one by one or combining them in multiple ways.
 
